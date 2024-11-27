@@ -1,4 +1,4 @@
-# vpn_flutter_app
+# vpn-flutter-app
 # Project Description:
 This project is an interactive Android VPN app that allows users to connect to almost 100 countries worldwide using free OpenVPN servers. The app provides detailed network information using IP-API and comes with Lottie animations and a cool, user-friendly UI to enhance the overall experience.
 
